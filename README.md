@@ -98,6 +98,6 @@
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-p-17b8b2114/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="guilherme_linkedin" height="25" width="25" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>
+  <a href="https://www.instagram.com/gui_vieira_p/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guilherme_instagram" height="25" width="25" /></a>
 </p>
 <br>
