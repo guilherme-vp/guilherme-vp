@@ -73,7 +73,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Prisma 2</span><br><br>
+        <span>Prisma</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/prisma.svg">
       </td>
       <td width="25%" align="center">
