@@ -23,7 +23,7 @@
 
 ----------
 
-## 🔭 My Tech Stack
+## 🔭 My tech stack
 <br />
 <table align="center">
   <tbody>
