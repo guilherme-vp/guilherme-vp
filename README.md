@@ -29,55 +29,55 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦3</span><br><br><br>
+        <span>𝗖𝗦𝗦3</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
+        <span>Javascript</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Typescript</span><br><br><br>
+        <span>Typescript</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Node</span><br><br><br>
+        <span>Node</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>React</b></span><br><br><br>
+        <span><b>React</b></span><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
       <td width="25%" align="center">
-        <span>GraphQL</span><br><br><br>
+        <span>GraphQL</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Expo</span><br><br><br>
+        <span>Expo</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>MongoDB</b></span><br><br><br>
+        <span><b>MongoDB</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>PostgreSQL</b></span><br><br><br>
+        <span><b>PostgreSQL</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Prisma 2</span><br><br><br>
+        <span>Prisma 2</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/prisma.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
@@ -93,11 +93,9 @@
 </p>
 
 ----------
-<br/>
 <h2 align="center">
   🌟Get in touch with me🌟
 </h2>
-<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-p-17b8b2114/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="guilherme_linkedin" height="25" width="25" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>
