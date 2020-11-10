@@ -1,7 +1,6 @@
 <h1 align="center"> Hello World! 👋🏼 I'm Guilherme Vieira</h1>
 
 ## 👦🏼 About Me
-<br/>
 
 *I am a Fullstack Developer, Tech Leader & Developer Advocate at [API Playbook](https://github.com/apiplaybook) and [Prensa](https://github.com/readprensa).* 🤩
 
@@ -9,10 +8,8 @@
 <br/>
 
 ----------
-<br />
 
 ## 💻 My projects are
-<br />
 <img align="right" alt="Person coding gif" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="300" />
 
 - **Innovative 💡**
@@ -25,7 +22,6 @@
 - **Optimized 🔍**
 
 ----------
-<br/>
 
 ## 🔭 My Tech Stack
 <br />
@@ -89,7 +85,6 @@
 </table>
 
 ----------
-<br/>
 
 ## 💼 My contributions
 <br/>
