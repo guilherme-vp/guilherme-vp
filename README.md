@@ -4,7 +4,7 @@
 
 *I am a Fullstack Developer, Tech Leader & Developer Advocate at [API Playbook](https://github.com/apiplaybook) and [Prensa](https://github.com/readprensa).* 🤩
 
-*I am a huge lover of physics, astronomy & astrophysics and I enjoy creating out of the box projects and huge ideas in simple codes.* 🌌
+*I am a huge lover of physics, astronomy & astrophysics. I enjoy creating out of the box projects and huge ideas in simple codes.* 🌌
 <br/>
 
 ----------
