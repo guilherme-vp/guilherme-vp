@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World! 👋🏼 I'm Guilherme Vieira</h1>
 
-## 👦🏼 About Me
+## 👦🏼 About me
 
 *I am a Fullstack Developer, Tech Leader & Developer Advocate at [API Playbook](https://github.com/apiplaybook) and [Prensa](https://github.com/readprensa).* 🤩
 
