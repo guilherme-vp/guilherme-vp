@@ -29,25 +29,25 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+        <span><b>𝗛𝗧𝗠𝗟𝟱</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦3</span><br><br>
+        <span><b>𝗖𝗦𝗦3</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>Javascript</span><br><br>
+        <span><b>Javascript</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Typescript</span><br><br>
+        <span><b>Typescript</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Node</span><br><br>
+        <span><b>Node</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
@@ -55,11 +55,11 @@
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
       <td width="25%" align="center">
-        <span>GraphQL</span><br><br>
+        <span><b>GraphQL</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Expo</span><br><br>
+        <span><b>Expo</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
       </td>
     </tr>
@@ -73,11 +73,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Prisma</span><br><br>
+        <span><b>Prisma</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/prisma.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br>
+        <span><b>𝗚𝗶𝘁</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
