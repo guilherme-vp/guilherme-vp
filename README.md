@@ -29,11 +29,11 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>𝗛𝗧𝗠𝗟𝟱</b></span><br><br>
+        <span><b>HTML5</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>𝗖𝗦𝗦3</b></span><br><br>
+        <span><b>CSS3</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
@@ -77,7 +77,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/prisma.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>𝗚𝗶𝘁</b></span><br><br>
+        <span><b>Git</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
