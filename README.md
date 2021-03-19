@@ -2,7 +2,7 @@
 
 ## 👦🏼 About me
 
-*I am a Fullstack Developer at [Altran](https://www.altran.com).* 🤩
+*I am a Fullstack Developer at [Nugget](https://github.com/NuggetAI).* 🤩
 
 *I am a huge lover of physics, astronomy & astrophysics. I enjoy creating out of the box projects and huge ideas in simple codes.* 🌌
 <br/>
