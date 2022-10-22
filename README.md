@@ -89,7 +89,7 @@
 ## 💼 My contributions
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guivpw&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Guilherme Vieira Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-vp&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Guilherme Vieira Github Stats">
 </p>
 
 ----------
