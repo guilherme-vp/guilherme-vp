@@ -2,9 +2,9 @@
 
 ## 👦🏼 About me
 
-- :telescope: I work as a Software Engineer at [Avenue Code](https://github.com/avenuecode), contributing to frontend, backend, mobile and devops to build web, mobile and infrastructure systems
+- :telescope: I work as a Software Engineer at [Fireflies.ai](https://fireflies.ai), contributing to frontend, backend, mobile and devops to build web, mobile and infrastructure systems
 - 😄 Pronouns: He/Him
-- 💬 Ask me about: Typescript, Node, React and DevOps
+- 💬 Ask me about: Typescript, Node, React, GCP, AWS, Architecture and DevOps
 
 ----------
 
